@@ -6,7 +6,7 @@ This machine learning model project intends to create a binary classifier to pre
 
 ***
 
-Software and Package Version
+# Software and Package Version
 Python version: 3.9.7 
 
 numpy version: 1.21.1
