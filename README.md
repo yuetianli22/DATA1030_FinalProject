@@ -1,7 +1,7 @@
 # DATA1030_FinalProject
 
 # Description
-This machine learning model project intends to create a binary classifier to predict customer churn for a hypothetical telecommunication company. The dataset used for this project was originally from IBM Cognos Analytics and was published in Kaggle. 
+This machine learning project intends to create a binary classifier to predict customer churn for a hypothetical telecommunication company. The dataset used for this project was originally from IBM Cognos Analytics and was published in Kaggle. 
 
 # Software and Package Version
 Python version: 3.9.7 
